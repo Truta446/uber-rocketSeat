@@ -1,5 +1,5 @@
 # UberX With React-Native
-Project to remake a platform from Uber, build application with React-Native
+Project to remake a platform from Uber, building application with React-Native
 
 #### Run Application:
 ```
